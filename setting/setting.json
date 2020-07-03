@@ -1,0 +1,10 @@
+{
+  "vetur.format.defaultFormatter.html": "js-beautify-html",
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "git.confirmSync": false,
+  "[xml]": {
+    "editor.defaultFormatter": "DotJoshJohnson.xml"
+  }
+}
