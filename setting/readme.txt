@@ -1,2 +1,3 @@
-1.需要安装eslint
-2.安装Beautify
+1.瀹夎eslint
+2.瀹夎Beautify
+3.涓�у寲閰嶇疆
